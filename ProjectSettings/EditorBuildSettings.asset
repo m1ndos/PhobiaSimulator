@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 82ad64b970584064181be608655529fa
+  - enabled: 1
+    path: Assets/Scenes/AcrophobiaScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6013c6c7c7a0f074091f5d568addcd34, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d84034e62597d4845a891fb834e7f179, type: 2}
